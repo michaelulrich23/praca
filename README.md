@@ -13,7 +13,7 @@ Riadky **5** až **13** sú sadou parametrov, ktoré potrebujeme na simuláciu.<
 **PERIODIC_BOUNDARY_CONDITIONS** - (PBC) bool, či chceme použiť periodické okrajové podmienky (true - budú použité PBC)
 
 Vo funkcii **function** na riadku **15** sa nastavuje funkcia (rozloženie tepla), ktorá sa bude simulovať.<br>
-**fp** na riadku **111** sa nastavuje cesta a názov súboru, kde sa zapisujú výsledky simulácie.
+**fp** - na riadku **111** sa nastavuje cesta a názov súboru, kde sa zapisujú výsledky simulácie.
 
 Po spustení programu treba zvoliť, ktorú z metód chceme použiť:
 1. Eulerova metóda
