@@ -1,7 +1,7 @@
 # heatEquation.cpp
 Program na simuláciu rovnice vedenia tepla.
 
-Riadky **5** až **13** sú sadou parametrov, ktoré potrebujeme na simuláciu.
+Riadky **5** až **13** sú sadou parametrov, ktoré potrebujeme na simuláciu.<br>
 **DELTAX** - priestorový krok
 **DELTAT** - časový krok
 **ENDTIME** - čas, v ktorom sa simulácia ukončí
